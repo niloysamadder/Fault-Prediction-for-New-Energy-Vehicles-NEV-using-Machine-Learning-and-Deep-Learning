@@ -1,0 +1,15 @@
+artifact_uri: file:///F:/Portfolio%20Projects/fault_prediction_project/mlruns/560277888509444402/c59e37b3694648ce9e0cdcdae82886e8/artifacts
+end_time: 1738188235310
+entry_point_name: ''
+experiment_id: '560277888509444402'
+lifecycle_stage: active
+run_id: c59e37b3694648ce9e0cdcdae82886e8
+run_name: Optimized Random Forest Classifier
+run_uuid: c59e37b3694648ce9e0cdcdae82886e8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1738188223515
+status: 3
+tags: []
+user_id: niloy

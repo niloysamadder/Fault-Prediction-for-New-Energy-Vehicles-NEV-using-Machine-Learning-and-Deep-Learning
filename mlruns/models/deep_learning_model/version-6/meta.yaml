@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1738164871980
+current_stage: None
+description: null
+last_updated_timestamp: 1738164871980
+name: deep_learning_model
+run_id: 0ca3e2d1dea54d819ca53f81bcb72f52
+run_link: null
+source: file:///F:/Portfolio%20Projects/fault_prediction_project/mlruns/0/0ca3e2d1dea54d819ca53f81bcb72f52/artifacts/deep_learning_model
+status: READY
+status_message: null
+storage_location: file:///F:/Portfolio%20Projects/fault_prediction_project/mlruns/0/0ca3e2d1dea54d819ca53f81bcb72f52/artifacts/deep_learning_model
+user_id: null
+version: 6

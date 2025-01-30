@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1738171891909
+current_stage: None
+description: null
+last_updated_timestamp: 1738171891909
+name: best_rf_model
+run_id: 3e1ba3033caf40beb0a820e660f8c96f
+run_link: null
+source: F:/Portfolio Projects/fault_prediction_project/models/deployed_model.sklearn
+status: READY
+status_message: null
+storage_location: F:/Portfolio Projects/fault_prediction_project/models/deployed_model.sklearn
+user_id: null
+version: 3

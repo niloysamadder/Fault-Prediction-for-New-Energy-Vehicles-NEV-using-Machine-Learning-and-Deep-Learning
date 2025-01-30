@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1738158348941
+current_stage: None
+description: null
+last_updated_timestamp: 1738158348941
+name: deep_learning_model
+run_id: 9171fdb356ac4f859b2ee8fd42671871
+run_link: null
+source: runs:/9171fdb356ac4f859b2ee8fd42671871/deep_learning_model
+status: READY
+status_message: null
+storage_location: runs:/9171fdb356ac4f859b2ee8fd42671871/deep_learning_model
+user_id: null
+version: 1

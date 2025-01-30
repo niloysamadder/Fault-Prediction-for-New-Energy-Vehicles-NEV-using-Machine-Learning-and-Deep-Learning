@@ -1,0 +1,15 @@
+artifact_uri: file:///F:/Portfolio%20Projects/fault_prediction_project/mlruns/560277888509444402/ffe9689e115e4d44bbfadb6288986613/artifacts
+end_time: 1738156508706
+entry_point_name: ''
+experiment_id: '560277888509444402'
+lifecycle_stage: active
+run_id: ffe9689e115e4d44bbfadb6288986613
+run_name: Random Forest Classifier
+run_uuid: ffe9689e115e4d44bbfadb6288986613
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1738156493174
+status: 3
+tags: []
+user_id: niloy

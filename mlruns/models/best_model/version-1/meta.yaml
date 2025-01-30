@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1738167353530
+current_stage: None
+description: null
+last_updated_timestamp: 1738167353530
+name: best_model
+run_id: 1008cde0d46e4229984a8c245250eea4
+run_link: null
+source: file:///F:/Portfolio%20Projects/fault_prediction_project/mlruns/560277888509444402/1008cde0d46e4229984a8c245250eea4/artifacts/best_model
+status: READY
+status_message: null
+storage_location: file:///F:/Portfolio%20Projects/fault_prediction_project/mlruns/560277888509444402/1008cde0d46e4229984a8c245250eea4/artifacts/best_model
+user_id: null
+version: 1

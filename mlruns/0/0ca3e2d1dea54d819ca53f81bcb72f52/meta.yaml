@@ -1,0 +1,15 @@
+artifact_uri: file:///F:/Portfolio%20Projects/fault_prediction_project/mlruns/0/0ca3e2d1dea54d819ca53f81bcb72f52/artifacts
+end_time: 1738158664932
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0ca3e2d1dea54d819ca53f81bcb72f52
+run_name: blushing-mouse-259
+run_uuid: 0ca3e2d1dea54d819ca53f81bcb72f52
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1738158641551
+status: 3
+tags: []
+user_id: niloy

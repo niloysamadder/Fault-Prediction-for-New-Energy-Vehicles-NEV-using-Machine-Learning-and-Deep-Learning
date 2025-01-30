@@ -1,0 +1,15 @@
+artifact_uri: file:///F:/Portfolio%20Projects/fault_prediction_project/mlruns/560277888509444402/cdb416c2448d4827905b64f9943beae9/artifacts
+end_time: 1738164902095
+entry_point_name: ''
+experiment_id: '560277888509444402'
+lifecycle_stage: active
+run_id: cdb416c2448d4827905b64f9943beae9
+run_name: delicate-mouse-865
+run_uuid: cdb416c2448d4827905b64f9943beae9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1738164872719
+status: 3
+tags: []
+user_id: niloy

@@ -1,0 +1,15 @@
+artifact_uri: file:///F:/Portfolio%20Projects/fault_prediction_project/mlruns/0/96f3d55f741c4dc082cb736ecc428681/artifacts
+end_time: 1738158048582
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 96f3d55f741c4dc082cb736ecc428681
+run_name: legendary-sloth-301
+run_uuid: 96f3d55f741c4dc082cb736ecc428681
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1738158031372
+status: 3
+tags: []
+user_id: niloy

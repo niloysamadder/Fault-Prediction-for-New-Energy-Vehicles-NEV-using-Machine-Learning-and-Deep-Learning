@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1738161928872
+current_stage: Deleted_Internal
+description: null
+last_updated_timestamp: 1738164872436
+name: deep_learning_model
+run_id: your_run_id_here
+run_link: null
+source: F:/Portfolio Projects/fault_prediction_project/models/deep_learning_model.keras
+status: READY
+status_message: null
+storage_location: F:/Portfolio Projects/fault_prediction_project/models/deep_learning_model.keras
+user_id: null
+version: 3
