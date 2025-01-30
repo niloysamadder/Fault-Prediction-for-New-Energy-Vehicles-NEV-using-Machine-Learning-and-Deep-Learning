@@ -140,9 +140,9 @@ python src/visualization.py
 ---
 
 ## 📌 **Future Improvements**
-- Add **hyperparameter tuning** for optimal model performance.
-- Improve **feature engineering** for better predictions.
-- Deploy the API using **Docker & cloud services (AWS/Azure/GCP)**.
+- Adding **hyperparameter tuning** for optimal model performance.
+- Improving **feature engineering** for better predictions.
+- Deploying the API using **Docker & cloud services (AWS/Azure/GCP)**.
 
 ---
 
